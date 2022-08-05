@@ -1,0 +1,38 @@
+{
+    "theguys": [
+      {
+        "id": 1,
+        "name": "Andy",
+        "Twitter": "Paycheck from Bob's Burgers",
+        "Insta": "Income",
+        "amount": 1000
+      },
+      {
+        "id": 2,
+        "name": "Andy",
+        "Twitter": "Paycheck from Bob's Burgers",
+        "Insta": "Income",
+        "amount": 1000
+      },
+      {
+        "id": 3,
+        "name": "Andy",
+        "Twitter": "Paycheck from Bob's Burgers",
+        "Insta": "Income",
+        "amount": 1000
+      },
+      {
+        "id": 4,
+        "name": "Andy",
+        "Twitter": "Paycheck from Bob's Burgers",
+        "Insta": "Income",
+        "amount": 1000
+      },
+      {
+        "name": "Andy",
+        "Twitter": "Paycheck from Bob's Burgers",
+        "Insta": "Income",
+        "amount": 1000
+      }
+    ]
+  }
